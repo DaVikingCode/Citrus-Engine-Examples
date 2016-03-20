@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="56" tileheight="56">
+ <tileset firstgid="1" name="tiles" tilewidth="56" tileheight="56">
+  <image source="tiles.png" width="1024" height="1024"/>
+  <tile id="70">
+   <properties>
+    <property name="name" value="grass/grass_002"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Calque de Tile 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt0cEJACEQBEGz2/wzMgC/4jVHFcx/oGdRM18f4KBJjyY9mvRo0qNJjyYAAAAAAAAAAAAA8M5cHi0aAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Dcb7zULYA==
+  </data>
+ </layer>
+ <objectgroup name="objects" width="100" height="100">
+  <object name="hero" type="citrus.objects.platformer.box2d.Hero" x="541" y="1868" width="51" height="79"/>
+  <object name="platform" type="citrus.objects.platformer.box2d.Platform" x="394" y="1962" width="1115" height="52"/>
+  <object name="platform" type="citrus.objects.platformer.box2d.Platform" x="1514" y="2022" width="725" height="49"/>
+  <object name="KeyGreen" type="citrus.objects.platformer.box2d.Coin" x="1737" y="1962" width="55" height="52">
+   <properties>
+    <property name="view" value="triggers/key_green"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

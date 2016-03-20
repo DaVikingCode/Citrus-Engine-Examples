@@ -1,0 +1,1 @@
+[Braid assets](http://www.davidhellman.net/braidbrief.htm) thanks to David Hellman.

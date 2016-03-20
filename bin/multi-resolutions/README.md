@@ -1,0 +1,1 @@
+Used [pngquant](http://pngquant.org/) to optimize assets size.

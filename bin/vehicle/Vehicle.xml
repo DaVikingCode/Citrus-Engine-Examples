@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4d018c0a63ac52291906dd2f3af7f3c9$ -->
+<TextureAtlas imagePath="Vehicle.png">
+    <SubTexture name="patch" x="2" y="82" width="77" height="108" frameX="-2" frameY="-7" frameWidth="79" frameHeight="118"/>
+    <SubTexture name="wagon" x="2" y="2" width="202" height="78" frameX="-2" frameY="-16" frameWidth="206" frameHeight="94"/>
+    <SubTexture name="wheel" x="2" y="192" width="62" height="60" frameX="-1" frameY="-4" frameWidth="66" frameHeight="68"/>
+</TextureAtlas>

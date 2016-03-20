@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:92d130a2d7b2018823d466e73e6b916e:1/1$ -->
+<TextureAtlas imagePath="assets1x.png">
+    <SubTexture name="0" x="465" y="132" width="23" height="30"/>
+    <SubTexture name="1" x="626" y="2" width="20" height="29"/>
+    <SubTexture name="2" x="514" y="164" width="24" height="29"/>
+    <SubTexture name="3" x="490" y="132" width="22" height="30"/>
+    <SubTexture name="4" x="490" y="164" width="22" height="30"/>
+    <SubTexture name="5" x="782" y="98" width="22" height="30"/>
+    <SubTexture name="6" x="465" y="164" width="23" height="30"/>
+    <SubTexture name="7" x="988" y="147" width="25" height="30"/>
+    <SubTexture name="8" x="988" y="114" width="25" height="31"/>
+    <SubTexture name="9" x="755" y="98" width="25" height="31"/>
+    <SubTexture name="blocks/blocks_000" x="643" y="720" width="18" height="38" frameX="-19" frameY="-9" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="blocks/blocks_001" x="623" y="720" width="18" height="38" frameX="-19" frameY="-9" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="blocks/blocks_002" x="351" y="176" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_003" x="351" y="118" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_004" x="351" y="60" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_005" x="351" y="2" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_006" x="622" y="912" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_007" x="574" y="854" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_008" x="525" y="796" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_009" x="523" y="738" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_010" x="483" y="680" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_011" x="463" y="622" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_012" x="463" y="564" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_013" x="462" y="506" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_014" x="406" y="448" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_015" x="349" y="350" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_016" x="349" y="292" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_017" x="293" y="234" width="56" height="56"/>
+    <SubTexture name="blocks/blocks_018" x="293" y="176" width="56" height="56"/>
+    <SubTexture name="bubble_die" x="59" y="830" width="46" height="9"/>
+    <SubTexture name="bubble_walk1" x="888" y="2" width="39" height="22"/>
+    <SubTexture name="bubble_walk2" x="858" y="1001" width="40" height="20"/>
+    <SubTexture name="clay/clay_000" x="293" y="118" width="56" height="56"/>
+    <SubTexture name="clay/clay_001" x="293" y="60" width="56" height="56"/>
+    <SubTexture name="clay/clay_002" x="293" y="2" width="56" height="56"/>
+    <SubTexture name="clay/clay_003" x="564" y="915" width="56" height="56"/>
+    <SubTexture name="clay/clay_004" x="516" y="857" width="56" height="56"/>
+    <SubTexture name="clay/clay_005" x="467" y="799" width="56" height="56"/>
+    <SubTexture name="clay/clay_006" x="465" y="741" width="56" height="56"/>
+    <SubTexture name="clay/clay_007" x="742" y="968" width="56" height="34" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="clay/clay_008" x="748" y="864" width="56" height="34" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="clay/clay_009" x="738" y="904" width="56" height="34" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="clay/clay_010" x="684" y="968" width="56" height="34" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="clay/clay_011" x="425" y="683" width="56" height="56"/>
+    <SubTexture name="clay/clay_012" x="405" y="625" width="56" height="56"/>
+    <SubTexture name="clay/clay_013" x="405" y="567" width="56" height="56"/>
+    <SubTexture name="clay/clay_014" x="404" y="509" width="56" height="56"/>
+    <SubTexture name="clay/clay_015" x="348" y="451" width="56" height="56"/>
+    <SubTexture name="clay/clay_016" x="291" y="350" width="56" height="56"/>
+    <SubTexture name="clay/clay_017" x="291" y="292" width="56" height="56"/>
+    <SubTexture name="clouds/cloud_000" x="521" y="564" width="46" height="56" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="clouds/cloud_001" x="235" y="234" width="56" height="56"/>
+    <SubTexture name="clouds/cloud_002" x="520" y="506" width="46" height="56" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="clouds/cloud_003" x="235" y="176" width="56" height="56"/>
+    <SubTexture name="clouds/cloud_004" x="520" y="448" width="46" height="56" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="clouds/cloud_005" x="235" y="118" width="56" height="56"/>
+    <SubTexture name="cross" x="581" y="70" width="23" height="22"/>
+    <SubTexture name="dangers/dangers_000" x="465" y="204" width="56" height="28" frameX="0" frameY="-28" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dangers/dangers_001" x="235" y="60" width="56" height="56"/>
+    <SubTexture name="dangers/dangers_002" x="646" y="680" width="56" height="36" frameX="0" frameY="-20" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dangers/dangers_003" x="645" y="642" width="56" height="36" frameX="0" frameY="-20" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dangers/dangers_004" x="587" y="642" width="56" height="36" frameX="0" frameY="-20" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dangers/dangers_005" x="59" y="426" width="56" height="36" frameX="0" frameY="-20" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dangers/dangers_006" x="235" y="2" width="56" height="56"/>
+    <SubTexture name="dangers/dangers_007" x="463" y="234" width="54" height="56" frameX="-1" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dangers/dangers_008" x="517" y="292" width="16" height="56" frameX="-20" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dangers/dangers_009" x="116" y="522" width="56" height="16" frameX="0" frameY="-40" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dangers/dangers_010" x="800" y="1001" width="56" height="20" frameX="0" frameY="-36" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dangers/dangers_011" x="409" y="176" width="54" height="56" frameX="-1" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dangers/dangers_012" x="251" y="408" width="44" height="48" frameX="-6" frameY="-4" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="diamond_blue" x="847" y="33" width="37" height="29"/>
+    <SubTexture name="diamond_green" x="888" y="26" width="37" height="29"/>
+    <SubTexture name="diamond_orange" x="806" y="2" width="37" height="29"/>
+    <SubTexture name="diamond_yellow" x="847" y="2" width="37" height="29"/>
+    <SubTexture name="duck" x="57" y="541" width="55" height="57"/>
+    <SubTexture name="dungeon/dungeon_000" x="506" y="922" width="56" height="56"/>
+    <SubTexture name="dungeon/dungeon_001" x="930" y="138" width="56" height="32" frameX="0" frameY="-24" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dungeon/dungeon_002" x="697" y="98" width="56" height="32" frameX="0" frameY="-24" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dungeon/dungeon_003" x="458" y="864" width="56" height="56"/>
+    <SubTexture name="dungeon/dungeon_004" x="143" y="408" width="50" height="52" frameX="-3" frameY="-2" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dungeon/dungeon_005" x="533" y="350" width="4" height="56" frameX="-26" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dungeon/dungeon_006" x="59" y="841" width="56" height="4" frameX="0" frameY="-26" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dungeon/dungeon_007" x="117" y="408" width="24" height="54" frameX="-16" frameY="-1" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dungeon/dungeon_008" x="109" y="716" width="24" height="54" frameX="-16" frameY="-1" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dungeon/dungeon_009" x="456" y="980" width="24" height="42" frameX="-16" frameY="-13" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="dungeon/dungeon_010" x="517" y="350" width="14" height="56" frameX="-21" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="enemy_1515" x="331" y="408" width="41" height="41"/>
+    <SubTexture name="enemy_1616" x="525" y="980" width="41" height="41"/>
+    <SubTexture name="enemy_1717" x="482" y="980" width="41" height="41"/>
+    <SubTexture name="fences/fences_000" x="276" y="946" width="56" height="50" frameX="0" frameY="-6" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="fences/fences_001" x="218" y="946" width="56" height="50" frameX="0" frameY="-6" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="fences/fences_002" x="409" y="806" width="56" height="56"/>
+    <SubTexture name="fences/fences_003" x="407" y="748" width="56" height="56"/>
+    <SubTexture name="fish_die" x="164" y="963" width="52" height="33"/>
+    <SubTexture name="fish_walk1" x="110" y="963" width="52" height="33"/>
+    <SubTexture name="fish_walk2" x="796" y="900" width="49" height="34"/>
+    <SubTexture name="flags/flags_000" x="409" y="118" width="54" height="56" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="flags/flags_001" x="409" y="60" width="54" height="56" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="flags/flags_002" x="409" y="2" width="54" height="56" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="flags/flags_003" x="464" y="448" width="54" height="56" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="flags/flags_004" x="407" y="350" width="54" height="56" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="flags/flags_005" x="407" y="292" width="54" height="56" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="flags/flags_006" x="407" y="234" width="54" height="56" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="flags/flags_007" x="351" y="234" width="54" height="56" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="flags/flags_008" x="583" y="680" width="22" height="56" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="flags/flags_009" x="563" y="622" width="22" height="56" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="flags/flags_010" x="607" y="796" width="22" height="56" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="flags/flags_011" x="583" y="796" width="22" height="56" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="front" x="56" y="923" width="52" height="73"/>
+    <SubTexture name="grass/grass_000" x="367" y="690" width="56" height="56"/>
+    <SubTexture name="grass/grass_001" x="347" y="632" width="56" height="56"/>
+    <SubTexture name="grass/grass_002" x="347" y="574" width="56" height="56"/>
+    <SubTexture name="grass/grass_003" x="346" y="516" width="56" height="56"/>
+    <SubTexture name="grass/grass_004" x="290" y="458" width="56" height="56"/>
+    <SubTexture name="grass/grass_005" x="233" y="350" width="56" height="56"/>
+    <SubTexture name="grass/grass_006" x="233" y="292" width="56" height="56"/>
+    <SubTexture name="grass/grass_007" x="177" y="234" width="56" height="56"/>
+    <SubTexture name="grass/grass_008" x="177" y="176" width="56" height="56"/>
+    <SubTexture name="grass/grass_009" x="177" y="118" width="56" height="56"/>
+    <SubTexture name="grass/grass_010" x="177" y="60" width="56" height="56"/>
+    <SubTexture name="grass/grass_011" x="639" y="98" width="56" height="32" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="grass/grass_012" x="581" y="98" width="56" height="32" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="grass/grass_013" x="523" y="98" width="56" height="32" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="grass/grass_014" x="465" y="98" width="56" height="32" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="grass/grass_015" x="177" y="2" width="56" height="56"/>
+    <SubTexture name="grass/grass_016" x="448" y="922" width="56" height="56"/>
+    <SubTexture name="grass/grass_017" x="400" y="864" width="56" height="56"/>
+    <SubTexture name="grave/grave_000" x="351" y="806" width="56" height="56"/>
+    <SubTexture name="grave/grave_001" x="349" y="748" width="56" height="56"/>
+    <SubTexture name="grave/grave_002" x="309" y="690" width="56" height="56"/>
+    <SubTexture name="grave/grave_003" x="289" y="632" width="56" height="56"/>
+    <SubTexture name="grave/grave_004" x="289" y="574" width="56" height="56"/>
+    <SubTexture name="grave/grave_005" x="288" y="516" width="56" height="56"/>
+    <SubTexture name="grave/grave_006" x="232" y="458" width="56" height="56"/>
+    <SubTexture name="grave/grave_007" x="175" y="350" width="56" height="56"/>
+    <SubTexture name="grave/grave_008" x="175" y="292" width="56" height="56"/>
+    <SubTexture name="grave/grave_009" x="119" y="234" width="56" height="56"/>
+    <SubTexture name="grave/grave_010" x="119" y="176" width="56" height="56"/>
+    <SubTexture name="grave/grave_011" x="119" y="118" width="56" height="56"/>
+    <SubTexture name="grave/grave_012" x="649" y="36" width="56" height="32" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="grave/grave_013" x="649" y="2" width="56" height="32" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="grave/grave_014" x="930" y="104" width="56" height="32" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="grave/grave_015" x="930" y="70" width="56" height="32" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="grave/grave_016" x="119" y="60" width="56" height="56"/>
+    <SubTexture name="grave/grave_017" x="119" y="2" width="56" height="56"/>
+    <SubTexture name="heart" x="632" y="834" width="42" height="36"/>
+    <SubTexture name="heart_full" x="631" y="796" width="42" height="36"/>
+    <SubTexture name="heart_half_full" x="663" y="718" width="42" height="36"/>
+    <SubTexture name="hurt" x="2" y="772" width="55" height="74"/>
+    <SubTexture name="idle" x="2" y="923" width="52" height="73"/>
+    <SubTexture name="jump" x="2" y="464" width="54" height="75"/>
+    <SubTexture name="key_blue" x="847" y="130" width="35" height="31"/>
+    <SubTexture name="key_blue_full" x="888" y="114" width="35" height="31"/>
+    <SubTexture name="key_green" x="806" y="99" width="35" height="31"/>
+    <SubTexture name="key_green_full" x="847" y="97" width="35" height="31"/>
+    <SubTexture name="key_orange" x="806" y="66" width="35" height="31"/>
+    <SubTexture name="key_orange_full" x="847" y="64" width="35" height="31"/>
+    <SubTexture name="key_yellow" x="888" y="57" width="35" height="31"/>
+    <SubTexture name="key_yellow_full" x="806" y="33" width="35" height="31"/>
+    <SubTexture name="monster_die" x="350" y="996" width="46" height="26"/>
+    <SubTexture name="monster_walk1" x="829" y="936" width="57" height="29"/>
+    <SubTexture name="monster_walk2" x="768" y="940" width="59" height="25"/>
+    <SubTexture name="powerups/diamond_blue" x="707" y="24" width="28" height="20" frameX="-14" frameY="-18" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="powerups/diamond_green" x="707" y="2" width="28" height="20" frameX="-14" frameY="-18" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="powerups/diamond_orange" x="988" y="92" width="28" height="20" frameX="-14" frameY="-18" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="powerups/diamond_yellow" x="900" y="1001" width="28" height="20" frameX="-14" frameY="-18" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="powerups/mushroom_brown" x="128" y="998" width="32" height="24" frameX="-12" frameY="-32" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="powerups/mushroom_red" x="94" y="998" width="32" height="24" frameX="-12" frameY="-32" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="powerups/pu_001" x="884" y="90" width="44" height="22" frameX="-6" frameY="-17" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="powerups/pu_002" x="988" y="62" width="28" height="28" frameX="-14" frameY="-14" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="powerups/pu_003" x="988" y="32" width="28" height="28" frameX="-14" frameY="-14" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="powerups/pu_004" x="988" y="2" width="28" height="28" frameX="-14" frameY="-14" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="powerups/pu_007" x="626" y="33" width="18" height="20" frameX="-19" frameY="-18" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="powerups/star" x="738" y="940" width="28" height="26" frameX="-14" frameY="-15" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="props/bush" x="523" y="70" width="56" height="22" frameX="0" frameY="-34" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="props/cactus" x="297" y="408" width="32" height="46" frameX="-12" frameY="-10" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="props/grass" x="707" y="46" width="26" height="30" frameX="-15" frameY="-26" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="props/props_003" x="58" y="522" width="56" height="16" frameX="0" frameY="-40" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="props/props_005" x="581" y="738" width="40" height="56" frameX="-8" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="props/props_006" x="541" y="680" width="40" height="56" frameX="-8" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="props/props_007" x="521" y="622" width="40" height="56" frameX="-8" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="props/stone" x="734" y="828" width="56" height="34" frameX="0" frameY="-22" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="sand/sand_000" x="390" y="926" width="56" height="56"/>
+    <SubTexture name="sand/sand_001" x="342" y="868" width="56" height="56"/>
+    <SubTexture name="sand/sand_002" x="293" y="810" width="56" height="56"/>
+    <SubTexture name="sand/sand_003" x="291" y="752" width="56" height="56"/>
+    <SubTexture name="sand/sand_004" x="251" y="694" width="56" height="56"/>
+    <SubTexture name="sand/sand_005" x="231" y="636" width="56" height="56"/>
+    <SubTexture name="sand/sand_006" x="346" y="516" width="56" height="56"/>
+    <SubTexture name="sand/sand_007" x="233" y="292" width="56" height="56"/>
+    <SubTexture name="sand/sand_008" x="690" y="868" width="56" height="34" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="sand/sand_009" x="680" y="908" width="56" height="34" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="sand/sand_010" x="733" y="792" width="56" height="34" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="sand/sand_011" x="676" y="832" width="56" height="34" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="sand/sand_012" x="231" y="578" width="56" height="56"/>
+    <SubTexture name="sand/sand_013" x="230" y="520" width="56" height="56"/>
+    <SubTexture name="sand/sand_014" x="174" y="462" width="56" height="56"/>
+    <SubTexture name="sand/sand_015" x="117" y="350" width="56" height="56"/>
+    <SubTexture name="sand/sand_016" x="117" y="292" width="56" height="56"/>
+    <SubTexture name="sand/sand_017" x="61" y="234" width="56" height="56"/>
+    <SubTexture name="signs/exit" x="61" y="176" width="56" height="56"/>
+    <SubTexture name="signs/left" x="463" y="350" width="52" height="56" frameX="-2" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="signs/right" x="463" y="292" width="52" height="56" frameX="-2" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="signs/sign" x="61" y="118" width="56" height="56"/>
+    <SubTexture name="snail_die1" x="198" y="998" width="34" height="23"/>
+    <SubTexture name="snail_die2" x="162" y="998" width="34" height="23"/>
+    <SubTexture name="snail_walk1" x="49" y="998" width="43" height="24"/>
+    <SubTexture name="snail_walk2" x="2" y="998" width="45" height="24"/>
+    <SubTexture name="snow/snow_000" x="61" y="60" width="56" height="56"/>
+    <SubTexture name="snow/snow_001" x="61" y="2" width="56" height="56"/>
+    <SubTexture name="snow/snow_002" x="284" y="888" width="56" height="56"/>
+    <SubTexture name="snow/snow_003" x="235" y="830" width="56" height="56"/>
+    <SubTexture name="snow/snow_004" x="233" y="772" width="56" height="56"/>
+    <SubTexture name="snow/snow_005" x="193" y="714" width="56" height="56"/>
+    <SubTexture name="snow/snow_006" x="632" y="872" width="56" height="34" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="snow/snow_007" x="681" y="756" width="56" height="34" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="snow/snow_008" x="675" y="796" width="56" height="34" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="snow/snow_009" x="623" y="760" width="56" height="34" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="snow/snow_010" x="173" y="656" width="56" height="56"/>
+    <SubTexture name="snow/snow_011" x="173" y="598" width="56" height="56"/>
+    <SubTexture name="snow/snow_012" x="226" y="888" width="56" height="56"/>
+    <SubTexture name="snow/snow_013" x="404" y="509" width="56" height="56"/>
+    <SubTexture name="snow/snow_014" x="177" y="830" width="56" height="56"/>
+    <SubTexture name="snow/snow_015" x="291" y="350" width="56" height="56"/>
+    <SubTexture name="snow/snow_016" x="175" y="772" width="56" height="56"/>
+    <SubTexture name="snow/snow_017" x="135" y="714" width="56" height="56"/>
+    <SubTexture name="stone/stone_000" x="930" y="36" width="56" height="32" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="stone/stone_001" x="930" y="2" width="56" height="32" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="stone/stone_002" x="858" y="967" width="56" height="32" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="stone/stone_003" x="800" y="967" width="56" height="32" frameX="0" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="stone/stone_004" x="115" y="656" width="56" height="56"/>
+    <SubTexture name="stone/stone_005" x="568" y="505" width="56" height="55"/>
+    <SubTexture name="stone/stone_006" x="568" y="448" width="56" height="55"/>
+    <SubTexture name="stone/stone_007" x="172" y="540" width="56" height="56"/>
+    <SubTexture name="stone/stone_008" x="115" y="598" width="56" height="56"/>
+    <SubTexture name="stone/stone_009" x="168" y="888" width="56" height="56"/>
+    <SubTexture name="stone/stone_010" x="119" y="830" width="56" height="56"/>
+    <SubTexture name="stone/stone_011" x="110" y="905" width="56" height="56"/>
+    <SubTexture name="stone/stone_012" x="117" y="772" width="56" height="56"/>
+    <SubTexture name="stone/stone_013" x="61" y="847" width="56" height="56"/>
+    <SubTexture name="stone/stone_014" x="59" y="772" width="56" height="56"/>
+    <SubTexture name="stone/stone_015" x="57" y="658" width="56" height="56"/>
+    <SubTexture name="stone/stone_016" x="116" y="464" width="56" height="56"/>
+    <SubTexture name="stone/stone_017" x="114" y="540" width="56" height="56"/>
+    <SubTexture name="tile_112112" x="627" y="602" width="38" height="38"/>
+    <SubTexture name="tile_113113" x="609" y="562" width="38" height="38"/>
+    <SubTexture name="tile_114114" x="587" y="602" width="38" height="38"/>
+    <SubTexture name="tile_115115" x="569" y="562" width="38" height="38"/>
+    <SubTexture name="tile_3333" x="607" y="680" width="37" height="38"/>
+    <SubTexture name="tile_4646" x="530" y="408" width="38" height="38"/>
+    <SubTexture name="tile_4747" x="490" y="408" width="38" height="38"/>
+    <SubTexture name="triggers/key_blue" x="739" y="66" width="48" height="30" frameX="-4" frameY="-13" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/key_green" x="739" y="34" width="48" height="30" frameX="-4" frameY="-13" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/key_orange" x="739" y="2" width="48" height="30" frameX="-4" frameY="-13" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/key_yellow" x="792" y="132" width="48" height="30" frameX="-4" frameY="-13" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/lock_blue" x="57" y="600" width="56" height="56"/>
+    <SubTexture name="triggers/lock_green" x="59" y="368" width="56" height="56"/>
+    <SubTexture name="triggers/lock_orange" x="59" y="310" width="56" height="56"/>
+    <SubTexture name="triggers/lock_yellow" x="58" y="464" width="56" height="56"/>
+    <SubTexture name="triggers/trampoline_down" x="930" y="172" width="56" height="30" frameX="0" frameY="-26" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/trampoline_up" x="568" y="973" width="56" height="40" frameX="0" frameY="-16" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/trigger_005" x="432" y="408" width="56" height="38" frameX="0" frameY="-18" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/trigger_006" x="626" y="970" width="56" height="38" frameX="0" frameY="-18" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/trigger_007" x="374" y="408" width="56" height="38" frameX="0" frameY="-18" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/trigger_008" x="398" y="984" width="56" height="38" frameX="0" frameY="-18" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/trigger_009" x="465" y="70" width="56" height="22" frameX="0" frameY="-34" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/trigger_010" x="680" y="944" width="56" height="22" frameX="0" frameY="-34" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/trigger_011" x="292" y="998" width="56" height="22" frameX="0" frameY="-34" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/trigger_012" x="234" y="998" width="56" height="22" frameX="0" frameY="-34" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/trigger_018" x="195" y="408" width="54" height="48" frameX="-1" frameY="-8" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/trigger_019" x="57" y="716" width="50" height="54" frameX="-3" frameY="-2" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="triggers/trigger_020" x="334" y="946" width="54" height="48" frameX="-1" frameY="-8" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="walking0001" x="2" y="695" width="53" height="75" frameX="-2" frameY="-2" frameWidth="57" frameHeight="77"/>
+    <SubTexture name="walking0002" x="2" y="387" width="55" height="75" frameX="-1" frameY="-2" frameWidth="57" frameHeight="77"/>
+    <SubTexture name="walking0003" x="2" y="310" width="55" height="75" frameX="-1" frameY="-1" frameWidth="57" frameHeight="77"/>
+    <SubTexture name="walking0004" x="2" y="618" width="53" height="75" frameX="-3" frameY="0" frameWidth="57" frameHeight="77"/>
+    <SubTexture name="walking0005" x="2" y="541" width="53" height="75" frameX="-3" frameY="0" frameWidth="57" frameHeight="77"/>
+    <SubTexture name="walking0006" x="2" y="848" width="57" height="73" frameX="0" frameY="0" frameWidth="57" frameHeight="77"/>
+    <SubTexture name="walking0007" x="2" y="233" width="57" height="75" frameX="0" frameY="0" frameWidth="57" frameHeight="77"/>
+    <SubTexture name="walking0008" x="2" y="156" width="57" height="75" frameX="0" frameY="0" frameWidth="57" frameHeight="77"/>
+    <SubTexture name="walking0009" x="2" y="79" width="57" height="75" frameX="0" frameY="-1" frameWidth="57" frameHeight="77"/>
+    <SubTexture name="walking0010" x="2" y="2" width="57" height="75" frameX="0" frameY="-2" frameWidth="57" frameHeight="77"/>
+    <SubTexture name="walking0011" x="2" y="695" width="53" height="75" frameX="-2" frameY="-2" frameWidth="57" frameHeight="77"/>
+</TextureAtlas>

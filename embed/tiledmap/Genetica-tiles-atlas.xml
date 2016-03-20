@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:5be48c84d11233de29c04800e9d98b7c$ -->
+<TextureAtlas imagePath="Genetica-tiles-atlas.png">
+    <SubTexture name="images_01" x="272" y="172" width="60" height="38" frameX="-2" frameY="-13" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_02" x="214" y="4" width="64" height="64"/>
+    <SubTexture name="images_03" x="206" y="144" width="60" height="60" frameX="-2" frameY="-1" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_04" x="282" y="140" width="62" height="26" frameX="-1" frameY="-36" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_05" x="144" y="4" width="64" height="64"/>
+    <SubTexture name="images_06" x="136" y="340" width="40" height="58" frameX="-11" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_07" x="214" y="74" width="62" height="64" frameX="-1" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_08" x="74" y="338" width="56" height="64" frameX="-4" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_09" x="140" y="130" width="60" height="64" frameX="-2" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_10" x="74" y="130" width="60" height="64" frameX="-2" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_11" x="144" y="74" width="64" height="50" frameX="0" frameY="-3" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_12" x="74" y="74" width="64" height="50" frameX="0" frameY="-3" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_13" x="424" y="138" width="64" height="50" frameX="0" frameY="-3" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_14" x="354" y="138" width="64" height="50" frameX="0" frameY="-3" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_15" x="424" y="72" width="64" height="60" frameX="0" frameY="-4" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_16" x="284" y="72" width="64" height="62" frameX="0" frameY="-2" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_17" x="74" y="200" width="58" height="62" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_18" x="74" y="408" width="56" height="62" frameX="-8" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_19" x="354" y="72" width="64" height="60" frameX="0" frameY="-4" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_20" x="424" y="4" width="64" height="62" frameX="0" frameY="-2" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_21" x="354" y="4" width="64" height="62" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_22" x="284" y="4" width="64" height="62" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_23" x="136" y="270" width="56" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_24" x="200" y="210" width="56" height="64" frameX="-8" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_25" x="74" y="268" width="56" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_26" x="138" y="200" width="56" height="64" frameX="-8" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_27" x="74" y="4" width="64" height="64"/>
+    <SubTexture name="images_28" x="4" y="424" width="64" height="64"/>
+    <SubTexture name="images_29" x="4" y="354" width="64" height="64"/>
+    <SubTexture name="images_30" x="4" y="284" width="64" height="64"/>
+    <SubTexture name="images_31" x="4" y="214" width="64" height="64"/>
+    <SubTexture name="images_32" x="4" y="144" width="64" height="64"/>
+    <SubTexture name="images_33" x="4" y="74" width="64" height="64"/>
+    <SubTexture name="images_34" x="4" y="4" width="64" height="64"/>
+    <SubTexture name="images_35" x="4" y="509" width="-3" height="-3" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_36" x="4" y="506" width="-3" height="-3" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_37" x="4" y="503" width="-3" height="-3" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_38" x="4" y="500" width="-3" height="-3" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_39" x="4" y="497" width="-3" height="-3" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="images_40" x="4" y="494" width="-3" height="-3" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

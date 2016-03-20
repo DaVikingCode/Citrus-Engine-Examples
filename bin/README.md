@@ -1,0 +1,1 @@
+To run the demo on local, you must add the location into trusted location settings in Flash Player preferences.

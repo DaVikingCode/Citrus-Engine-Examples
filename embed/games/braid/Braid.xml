@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:5c33fac8cab382f1764ab43dcf2ab7d8$ -->
+<TextureAtlas imagePath="Braid.png">
+    <SubTexture name="claw-chomping-01" x="1043" y="1094" width="104" height="164"/>
+    <SubTexture name="claw-chomping-10" x="332" y="1327" width="104" height="164"/>
+    <SubTexture name="claw-chomping-11" x="1464" y="699" width="104" height="164"/>
+    <SubTexture name="claw-chomping-02" x="1570" y="871" width="115" height="166"/>
+    <SubTexture name="claw-chomping-03" x="1570" y="230" width="125" height="165"/>
+    <SubTexture name="claw-chomping-04" x="2" y="806" width="133" height="165"/>
+    <SubTexture name="claw-chomping-05" x="137" y="682" width="133" height="165"/>
+    <SubTexture name="claw-chomping-06" x="2" y="639" width="133" height="165"/>
+    <SubTexture name="claw-chomping-07" x="551" y="362" width="133" height="167"/>
+    <SubTexture name="claw-chomping-08" x="1229" y="513" width="115" height="170"/>
+    <SubTexture name="claw-chomping-09" x="1464" y="533" width="104" height="164"/>
+    <SubTexture name="monster-bounce-1" x="1110" y="475" width="117" height="113"/>
+    <SubTexture name="monster-bounce-2" x="1921" y="960" width="115" height="117"/>
+    <SubTexture name="monster-bounce-3" x="1915" y="1219" width="113" height="119"/>
+    <SubTexture name="monster-bounce-4" x="666" y="647" width="113" height="116"/>
+    <SubTexture name="monster-dying-1" x="985" y="924" width="112" height="115"/>
+    <SubTexture name="monster-dying-2" x="1100" y="866" width="112" height="116"/>
+    <SubTexture name="monster-dying-3" x="551" y="531" width="113" height="117"/>
+    <SubTexture name="monster-dying-4" x="1683" y="1116" width="114" height="118"/>
+    <SubTexture name="monster-falling-1" x="551" y="650" width="113" height="115"/>
+    <SubTexture name="monster-falling-2" x="991" y="394" width="117" height="116"/>
+    <SubTexture name="monster-falling-3" x="1345" y="787" width="116" height="120"/>
+    <SubTexture name="monster-flying_upward-1" x="1687" y="994" width="115" height="120"/>
+    <SubTexture name="monster-flying_upward-2" x="1804" y="927" width="115" height="120"/>
+    <SubTexture name="monster-flying_upward-3" x="1806" y="804" width="115" height="121"/>
+    <SubTexture name="monster-post_bounce-1" x="666" y="765" width="113" height="114"/>
+    <SubTexture name="monster-up-down_transition-1" x="1923" y="838" width="115" height="120"/>
+    <SubTexture name="monster-up-down_transition-2" x="1687" y="872" width="115" height="120"/>
+    <SubTexture name="monster-up-down_transition-3" x="1804" y="1049" width="115" height="113"/>
+    <SubTexture name="monster-up-down_transition-4" x="1688" y="756" width="116" height="114"/>
+    <SubTexture name="monster-walking-01" x="1781" y="1282" width="111" height="108"/>
+    <SubTexture name="monster-walking-10" x="1214" y="949" width="112" height="111"/>
+    <SubTexture name="monster-walking-11" x="871" y="660" width="113" height="109"/>
+    <SubTexture name="monster-walking-12" x="1668" y="1236" width="111" height="109"/>
+    <SubTexture name="monster-walking-13" x="1439" y="1220" width="111" height="109"/>
+    <SubTexture name="monster-walking-14" x="361" y="945" width="110" height="108"/>
+    <SubTexture name="monster-walking-15" x="1894" y="1340" width="111" height="107"/>
+    <SubTexture name="monster-walking-16" x="226" y="992" width="110" height="107"/>
+    <SubTexture name="monster-walking-02" x="1552" y="1275" width="111" height="108"/>
+    <SubTexture name="monster-walking-03" x="871" y="771" width="113" height="108"/>
+    <SubTexture name="monster-walking-04" x="1328" y="1041" width="112" height="108"/>
+    <SubTexture name="monster-walking-05" x="1555" y="1164" width="111" height="109"/>
+    <SubTexture name="monster-walking-06" x="1326" y="1151" width="111" height="109"/>
+    <SubTexture name="monster-walking-07" x="1665" y="1347" width="111" height="107"/>
+    <SubTexture name="monster-walking-08" x="1099" y="984" width="112" height="108"/>
+    <SubTexture name="monster-walking-09" x="1442" y="1109" width="111" height="109"/>
+    <SubTexture name="rabbit-arcing-1" x="161" y="576" width="137" height="104"/>
+    <SubTexture name="rabbit-arcing-2" x="300" y="610" width="135" height="106"/>
+    <SubTexture name="rabbit-arcing-3" x="304" y="496" width="137" height="112"/>
+    <SubTexture name="rabbit-arcing-4" x="1702" y="2" width="130" height="108"/>
+    <SubTexture name="rabbit-dying-1" x="1184" y="1631" width="99" height="110"/>
+    <SubTexture name="rabbit-dying-2" x="1071" y="1677" width="99" height="107"/>
+    <SubTexture name="rabbit-dying-3" x="854" y="1694" width="100" height="108"/>
+    <SubTexture name="rabbit-hopping-1" x="1567" y="1039" width="114" height="123"/>
+    <SubTexture name="rabbit-hopping-2" x="1570" y="758" width="116" height="111"/>
+    <SubTexture name="rabbit-hopping-3" x="551" y="767" width="113" height="109"/>
+    <SubTexture name="rabbit-hopping-4" x="1935" y="574" width="111" height="120"/>
+    <SubTexture name="rabbit-hopping-5" x="1213" y="1062" width="111" height="115"/>
+    <SubTexture name="rabbit-hopping-6" x="1463" y="865" width="105" height="112"/>
+    <SubTexture name="rabbit-hopping-7" x="718" y="929" width="107" height="114"/>
+    <SubTexture name="rabbit-lying_in_wait-1" x="484" y="369" width="65" height="91"/>
+    <SubTexture name="rabbit-ready_to_jump-1" x="1119" y="369" width="121" height="104"/>
+    <SubTexture name="rabbit-rising-1" x="484" y="462" width="63" height="65"/>
+    <SubTexture name="rabbit-rising-2" x="802" y="511" width="67" height="75"/>
+    <SubTexture name="rabbit-rising-3" x="1814" y="570" width="119" height="100"/>
+    <SubTexture name="rabbit-rising-4" x="551" y="242" width="134" height="118"/>
+    <SubTexture name="rabbit-rising-5" x="326" y="369" width="156" height="125"/>
+    <SubTexture name="rabbit-rising-6" x="377" y="242" width="172" height="125"/>
+    <SubTexture name="rabbit-rising-7" x="161" y="458" width="141" height="116"/>
+    <SubTexture name="rabbit-sitting-1" x="648" y="1577" width="102" height="107"/>
+    <SubTexture name="rabbit-sitting-2" x="763" y="1563" width="102" height="107"/>
+    <SubTexture name="rabbit-sitting-3" x="444" y="1280" width="105" height="110"/>
+    <SubTexture name="rabbit-sitting-4" x="583" y="1017" width="107" height="112"/>
+    <SubTexture name="rabbit-sitting-5" x="556" y="1269" width="106" height="110"/>
+    <SubTexture name="rabbit-sitting-6" x="876" y="1455" width="102" height="109"/>
+    <SubTexture name="rabbit-sitting-7" x="1321" y="1522" width="101" height="108"/>
+    <SubTexture name="rabbit-standing-1" x="1430" y="1465" width="101" height="113"/>
+    <SubTexture name="rabbit-standing-2" x="1327" y="1406" width="101" height="114"/>
+    <SubTexture name="rabbit-standing-3" x="1082" y="1560" width="100" height="115"/>
+    <SubTexture name="rabbit-standing-4" x="1224" y="1398" width="101" height="116"/>
+    <SubTexture name="rabbit-standing-5" x="1115" y="1443" width="101" height="115"/>
+    <SubTexture name="rabbit-standing-6" x="1218" y="1516" width="101" height="113"/>
+    <SubTexture name="rabbit-standing-7" x="969" y="1654" width="100" height="112"/>
+    <SubTexture name="climbing_horizontally-1" x="1346" y="245" width="122" height="130" frameX="-39" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="climbing_horizontally-2" x="1834" y="2" width="128" height="132" frameX="-42" frameY="-35" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="climbing_horizontally-3" x="1570" y="2" width="130" height="130" frameX="-38" frameY="-35" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="climbing_horizontally-4" x="1227" y="685" width="116" height="128" frameX="-33" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="climbing_horizontally-5" x="1451" y="979" width="114" height="128" frameX="-32" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="climbing_horizontally-6" x="1346" y="655" width="116" height="130" frameX="-31" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="climbing_horizontally-7" x="871" y="881" width="112" height="130" frameX="-35" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="climbing_horizontally-8" x="2" y="1111" width="110" height="130" frameX="-37" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="climbing_vertically-1" x="1543" y="1385" width="102" height="132" frameX="-48" frameY="-24" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="climbing_vertically-2" x="1468" y="389" width="100" height="142" frameX="-51" frameY="-20" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="climbing_vertically-3" x="1011" y="1398" width="102" height="120" frameX="-52" frameY="-33" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="climbing_vertically-4" x="691" y="1183" width="106" height="122" frameX="-48" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="climbing_vertically-5" x="1242" y="369" width="102" height="142" frameX="-48" frameY="-21" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="climbing_vertically-6" x="1470" y="245" width="98" height="142" frameX="-44" frameY="-21" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="climbing_vertically-7" x="1120" y="1317" width="102" height="124" frameX="-45" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="climbing_vertically-8" x="114" y="1119" width="108" height="122" frameX="-39" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dazed-1" x="1624" y="1726" width="86" height="132" frameX="-61" frameY="-39" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dazed-2" x="86" y="1243" width="84" height="132" frameX="-63" frameY="-39" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dazed-3" x="1733" y="1674" width="86" height="132" frameX="-61" frameY="-39" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dazed-4" x="1624" y="1860" width="84" height="132" frameX="-62" frameY="-39" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dazed-5" x="1538" y="1791" width="84" height="134" frameX="-62" frameY="-37" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dazed-6" x="1712" y="1808" width="84" height="132" frameX="-62" frameY="-39" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dazed-7" x="1947" y="1711" width="86" height="132" frameX="-61" frameY="-39" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dazed-8" x="1821" y="1723" width="84" height="132" frameX="-63" frameY="-39" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dying-1" x="980" y="1520" width="100" height="132" frameX="-50" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dying-2" x="1947" y="1587" width="96" height="122" frameX="-55" frameY="-37" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dying-3" x="1056" y="1786" width="94" height="120" frameX="-58" frameY="-39" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dying-4" x="1152" y="1786" width="98" height="116" frameX="-53" frameY="-39" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dying-5" x="752" y="1672" width="100" height="118" frameX="-50" frameY="-40" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dying-6" x="1799" y="1164" width="114" height="116" frameX="-43" frameY="-46" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dying_loop-1" x="1823" y="470" width="124" height="98" frameX="-38" frameY="-60" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dying_loop-2" x="1697" y="390" width="124" height="98" frameX="-38" frameY="-60" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="dying_loop-3" x="1570" y="134" width="126" height="94" frameX="-36" frameY="-64" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="falling_downward-1" x="1103" y="730" width="114" height="134" frameX="-43" frameY="-33" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="falling_downward-2" x="987" y="652" width="114" height="134" frameX="-43" frameY="-33" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="falling_downward-3" x="871" y="524" width="114" height="134" frameX="-43" frameY="-33" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="fidget_1-1" x="86" y="1657" width="82" height="138" frameX="-58" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="fidget_1-2" x="170" y="1651" width="82" height="138" frameX="-58" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="fidget_1-3" x="2" y="1243" width="82" height="140" frameX="-59" frameY="-28" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="fidget_1-4" x="1346" y="1716" width="84" height="140" frameX="-60" frameY="-28" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="fidget_1-5" x="781" y="647" width="88" height="140" frameX="-59" frameY="-28" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="fidget_1-6" x="781" y="789" width="88" height="138" frameX="-59" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="fidget_1-7" x="1960" y="146" width="86" height="140" frameX="-59" frameY="-28" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="fidget_1-8" x="1964" y="2" width="82" height="142" frameX="-59" frameY="-28" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="fidget_1-9" x="336" y="1631" width="82" height="138" frameX="-58" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="flying_upward-1" x="827" y="1013" width="106" height="138" frameX="-46" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="flying_upward-2" x="799" y="1289" width="104" height="138" frameX="-46" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="flying_upward-3" x="443" y="529" width="106" height="138" frameX="-46" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-01" x="86" y="1517" width="82" height="138" frameX="-58" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-10" x="2" y="1493" width="82" height="140" frameX="-57" frameY="-28" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-11" x="2" y="1664" width="82" height="140" frameX="-57" frameY="-28" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-12" x="1882" y="1857" width="82" height="140" frameX="-57" frameY="-28" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-13" x="1798" y="1857" width="82" height="140" frameX="-57" frameY="-28" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-14" x="170" y="1511" width="82" height="138" frameX="-57" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-15" x="86" y="1377" width="82" height="138" frameX="-57" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-16" x="172" y="1371" width="82" height="138" frameX="-57" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-17" x="1106" y="1908" width="82" height="138" frameX="-58" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-18" x="1022" y="1908" width="82" height="138" frameX="-58" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-19" x="938" y="1908" width="82" height="138" frameX="-58" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-2" x="854" y="1908" width="82" height="138" frameX="-58" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-20" x="674" y="1908" width="82" height="138" frameX="-58" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-21" x="590" y="1908" width="82" height="138" frameX="-58" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-22" x="506" y="1908" width="82" height="138" frameX="-58" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-03" x="422" y="1908" width="82" height="138" frameX="-58" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-04" x="338" y="1908" width="82" height="138" frameX="-58" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-05" x="254" y="1908" width="82" height="138" frameX="-58" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-06" x="170" y="1908" width="82" height="138" frameX="-57" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-07" x="86" y="1908" width="82" height="138" frameX="-57" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-08" x="2" y="1908" width="82" height="138" frameX="-57" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="idle-09" x="1454" y="1854" width="82" height="140" frameX="-57" frameY="-28" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="jump_prep_(unused)-1" x="338" y="1055" width="108" height="132" frameX="-53" frameY="-37" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="jump_prep_(unused)-2" x="1692" y="490" width="120" height="130" frameX="-43" frameY="-39" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="jump_prep_(unused)-3" x="1832" y="136" width="126" height="128" frameX="-39" frameY="-40" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="jump_prep_(unused)-4" x="1335" y="909" width="114" height="130" frameX="-45" frameY="-37" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="jump_prep_(unused)-5" x="608" y="881" width="108" height="134" frameX="-46" frameY="-33" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="jump_prep_straight-1" x="867" y="1566" width="100" height="126" frameX="-47" frameY="-36" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="jump_prep_straight-2" x="538" y="1659" width="98" height="130" frameX="-47" frameY="-35" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="jump_prep_straight-3" x="1635" y="1588" width="96" height="136" frameX="-48" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="jump_prep_straight-4" x="1252" y="1743" width="92" height="142" frameX="-49" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="jump_prep_straight-5" x="1951" y="288" width="94" height="142" frameX="-49" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="looking_downward-1" x="1432" y="1716" width="90" height="136" frameX="-59" frameY="-32" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="looking_upward-1" x="1359" y="1262" width="78" height="142" frameX="-58" frameY="-26" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="opening_door-1" x="1370" y="1858" width="82" height="140" frameX="-58" frameY="-29" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="opening_door-2" x="1284" y="1887" width="84" height="140" frameX="-57" frameY="-29" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="opening_door-3" x="256" y="1493" width="78" height="140" frameX="-59" frameY="-29" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="opening_door-4" x="254" y="1635" width="78" height="138" frameX="-60" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="opening_door-5" x="1966" y="1845" width="80" height="138" frameX="-59" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-01" x="1570" y="397" width="120" height="130" frameX="-39" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-10" x="1751" y="1536" width="96" height="136" frameX="-58" frameY="-33" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-11" x="1849" y="1587" width="96" height="134" frameX="-59" frameY="-32" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-12" x="1424" y="1580" width="100" height="134" frameX="-56" frameY="-33" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-13" x="1255" y="1262" width="102" height="134" frameX="-55" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-14" x="226" y="1101" width="108" height="130" frameX="-49" frameY="-33" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-15" x="1570" y="630" width="116" height="126" frameX="-41" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-16" x="871" y="394" width="118" height="128" frameX="-39" frameY="-33" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-17" x="496" y="878" width="110" height="128" frameX="-46" frameY="-35" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-18" x="1647" y="1456" width="102" height="130" frameX="-54" frameY="-35" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-19" x="657" y="1445" width="104" height="130" frameX="-52" frameY="-37" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-02" x="1812" y="672" width="118" height="130" frameX="-40" frameY="-35" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-20" x="770" y="1429" width="104" height="132" frameX="-53" frameY="-36" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-21" x="438" y="1530" width="98" height="132" frameX="-57" frameY="-37" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-22" x="758" y="1792" width="94" height="136" frameX="-61" frameY="-36" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-23" x="338" y="1493" width="98" height="136" frameX="-57" frameY="-35" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-24" x="1014" y="1260" width="104" height="136" frameX="-51" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-25" x="935" y="1041" width="106" height="136" frameX="-51" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-26" x="384" y="807" width="110" height="136" frameX="-47" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-27" x="986" y="788" width="112" height="134" frameX="-44" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-03" x="1692" y="622" width="118" height="132" frameX="-39" frameY="-35" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-04" x="1219" y="815" width="114" height="132" frameX="-43" frameY="-36" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-05" x="800" y="1153" width="106" height="134" frameX="-50" frameY="-37" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-06" x="905" y="1319" width="104" height="134" frameX="-52" frameY="-37" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-07" x="1439" y="1331" width="102" height="132" frameX="-55" frameY="-37" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-08" x="1533" y="1519" width="100" height="134" frameX="-55" frameY="-36" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="running-09" x="1526" y="1655" width="96" height="134" frameX="-59" frameY="-37" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="up-down_transition-1" x="908" y="1179" width="104" height="138" frameX="-47" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="up-down_transition-2" x="1149" y="1179" width="104" height="136" frameX="-47" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="up-down_transition-3" x="224" y="1233" width="106" height="136" frameX="-47" frameY="-32" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="up-down_transition-4" x="438" y="1392" width="104" height="136" frameX="-48" frameY="-32" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="up-down_transition-5" x="336" y="1189" width="106" height="136" frameX="-46" frameY="-32" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="up-down_transition-6" x="448" y="1142" width="106" height="136" frameX="-46" frameY="-32" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="up-down_transition-7" x="2" y="973" width="110" height="136" frameX="-44" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="up-down_transition-8" x="137" y="849" width="110" height="136" frameX="-46" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="up-down_transition-9" x="686" y="511" width="114" height="134" frameX="-43" frameY="-33" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="up-down_transition_straight-1" x="1951" y="432" width="94" height="140" frameX="-47" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="up-down_transition_straight-2" x="956" y="1768" width="98" height="138" frameX="-46" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="up-down_transition_straight-3" x="544" y="1519" width="102" height="138" frameX="-47" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="up-down_transition_straight-4" x="551" y="1381" width="104" height="136" frameX="-47" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_jumping-1" x="1346" y="377" width="120" height="138" frameX="-39" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_prep_forward-1" x="473" y="1008" width="108" height="132" frameX="-53" frameY="-37" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_prep_forward-2" x="114" y="987" width="110" height="130" frameX="-49" frameY="-37" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_prep_forward-3" x="249" y="856" width="110" height="134" frameX="-47" frameY="-33" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_prep_straight-1" x="638" y="1686" width="96" height="136" frameX="-48" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_prep_straight-2" x="1190" y="1904" width="92" height="142" frameX="-49" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_prep_straight-3" x="1778" y="1392" width="110" height="142" frameX="-40" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_transition_forward-1" x="1921" y="1079" width="114" height="138" frameX="-46" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_transition_forward-2" x="1346" y="517" width="116" height="136" frameX="-46" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_transition_forward-3" x="437" y="669" width="112" height="136" frameX="-47" frameY="-32" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_transition_forward-4" x="664" y="1307" width="104" height="136" frameX="-48" frameY="-32" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_transition_straight-1" x="1932" y="696" width="114" height="140" frameX="-39" frameY="-30" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_transition_straight-2" x="1109" y="590" width="116" height="138" frameX="-39" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_transition_straight-3" x="991" y="512" width="116" height="138" frameX="-39" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_transition_straight-4" x="272" y="718" width="110" height="136" frameX="-44" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_transition_straight-5" x="583" y="1131" width="106" height="136" frameX="-47" frameY="-32" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_transition_straight-6" x="692" y="1045" width="106" height="136" frameX="-47" frameY="-32" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="victory_transition_straight-7" x="1890" y="1449" width="110" height="136" frameX="-44" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="ape" x="2" y="2" width="373" height="262"/>
+    <SubTexture name="cannon1" x="929" y="2" width="220" height="183"/>
+    <SubTexture name="cannon2" x="1151" y="2" width="216" height="160"/>
+    <SubTexture name="door0" x="1698" y="213" width="125" height="175"/>
+    <SubTexture name="door1" x="2" y="449" width="157" height="188"/>
+    <SubTexture name="door2" x="929" y="187" width="188" height="205"/>
+    <SubTexture name="door3" x="166" y="266" width="158" height="190"/>
+    <SubTexture name="door4" x="1825" y="266" width="124" height="202"/>
+    <SubTexture name="door5" x="2" y="266" width="162" height="181"/>
+    <SubTexture name="door6" x="1151" y="164" width="193" height="203"/>
+    <SubTexture name="flora3" x="687" y="2" width="240" height="202"/>
+    <SubTexture name="gate" x="1369" y="2" width="199" height="241"/>
+    <SubTexture name="key1" x="1570" y="529" width="120" height="99"/>
+    <SubTexture name="key2" x="1702" y="112" width="128" height="99"/>
+    <SubTexture name="switch1" x="687" y="206" width="182" height="303"/>
+    <SubTexture name="switch2" x="377" y="2" width="308" height="238"/>
+</TextureAtlas>
